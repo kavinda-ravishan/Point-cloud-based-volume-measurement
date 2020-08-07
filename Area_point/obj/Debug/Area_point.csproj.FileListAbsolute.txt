@@ -1,0 +1,12 @@
+C:\Users\Kavinda Ravishan\source\repos\Area_point\Area_point\obj\Debug\Area_point.csprojAssemblyReference.cache
+C:\Users\Kavinda Ravishan\source\repos\Area_point\Area_point\obj\Debug\Area_point.csproj.CoreCompileInputs.cache
+C:\Users\Kavinda Ravishan\source\repos\Area_point\Area_point\bin\Debug\Area_point.exe.config
+C:\Users\Kavinda Ravishan\source\repos\Area_point\Area_point\bin\Debug\Area_point.exe
+C:\Users\Kavinda Ravishan\source\repos\Area_point\Area_point\bin\Debug\Area_point.pdb
+C:\Users\Kavinda Ravishan\source\repos\Area_point\Area_point\obj\Debug\Area_point.exe
+C:\Users\Kavinda Ravishan\source\repos\Area_point\Area_point\obj\Debug\Area_point.pdb
+C:\Users\Kavinda Ravishan\source\repos\Area_point\Area_point\obj\Debug\Area_point.MainForm.resources
+C:\Users\Kavinda Ravishan\source\repos\Area_point\Area_point\obj\Debug\Area_point.csproj.GenerateResource.cache
+C:\Users\Kavinda Ravishan\source\repos\Area_point\Area_point\obj\Debug\Area_point.PointCloudGenForm.resources
+C:\Users\Kavinda Ravishan\source\repos\Area_point\Area_point\obj\Debug\Area_point.ModelGenForm.resources
+C:\Users\Kavinda Ravishan\source\repos\Area_point\Area_point\obj\Debug\Area_point.VolumeCalForm.resources
